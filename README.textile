@@ -1,0 +1,30 @@
+h1. Pogoplug PHP API
+
+This is a *"Pogoplug API":pogoplug_api_url PHP5 Class* that is used to access and retrieve
+data from the Pogoplug API.
+
+It contains the *Pogoplug PHP API* class which is licensed under the "MIT License":mit_license .
+
+h2. Usage
+
+*Requires PHP5 >= 5.2*
+*Requires cURL Lib*
+
+
+h2. Feedback
+
+*Report An Issue/Bug*
+Please report issues on the project's "GitHub Issues":issues page.
+Known issues with Pogoplug's API are noted in the code's comments, but if you find
+something I missed, please report them so I can fix/note them.
+
+*Comments/Suggestions*
+If you'd like to leave some general feedback, please visit my website "http://justrambling.amereservant.com":http://justrambling.amereservant.com
+and leave me a message.  A better commenting system will be implimented at a later date.
+
+[issues]https://github.com/amereservant/pogoplug-php-api/issues
+[feedback_link]http://justrambling.amereservant.com/
+[Wiki_Page]http://wiki.github.com/amereservant/pogoplug-php-api/
+[pogoplug_api_url]http://download.pogoplug.com/dev/web.html
+[mit_license]http://creativecommons.org/licenses/MIT/
+
